@@ -24,3 +24,20 @@ After setting up multiple systems with this configuration manually, I wanted a w
 ```sh
  git clone https://github.com/YOUR-USERNAME/zsh-setup-automation.git
  cd zsh-setup-automation
+```
+
+### ⚙️ Step 2: Run the Script
+```sh
+ chmod +x install.sh
+ ./install.sh
+```
+
+### 💾 Step 3: Restart Your Terminal
+After the script completes, restart your terminal and enjoy a more efficient shell experience. 😎💻
+
+## 🏆 Credits
+This setup was inspired by [this article](https://ivanaugustobd.medium.com/your-terminal-can-be-much-much-more-productive-5256424658e8) by **Code Slicer** 🥷💾. The tutorial provided great insights into improving terminal workflows, which I used as a foundation for this automation.
+
+## 🤝 Contributions
+Feel free to submit PRs or drop suggestions. Let’s continue improving this together!
+
